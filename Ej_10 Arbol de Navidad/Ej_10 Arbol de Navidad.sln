@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej_10 Arbol de Navidad", "Ej_10 Arbol de Navidad\Ej_10 Arbol de Navidad.csproj", "{E3D1C9D5-7C88-40F2-A72E-10EEB927AD5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3D1C9D5-7C88-40F2-A72E-10EEB927AD5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D1C9D5-7C88-40F2-A72E-10EEB927AD5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D1C9D5-7C88-40F2-A72E-10EEB927AD5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D1C9D5-7C88-40F2-A72E-10EEB927AD5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C58C878-6774-47A7-A5F3-C1FFBFD4898D}
+	EndGlobalSection
+EndGlobal
